@@ -1,0 +1,10 @@
+name: Chair
+version: '${project.version}'
+main: rangfarm.seo0jjjjj.chair.chair.Chair
+api-version: 1.19
+authors: [ seo0jjjjj ]
+description: /의자 지정
+website: github.seo0jjjjj.io
+commands:
+  의자:
+    description: §e /의자 지정 §f의자를 지정합니다.
